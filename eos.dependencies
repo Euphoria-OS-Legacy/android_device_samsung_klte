@@ -1,7 +1,7 @@
 [
   {
     "remote":      "github",
-    "repository": "android_device_samsung_klte-common",
+    "repository": "Euphoria-OS-Legacy/android_device_samsung_klte-common",
     "target_path": "device/samsung/klte-common",
     "revision":    "lollipop"
   }
